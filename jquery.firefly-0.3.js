@@ -30,8 +30,8 @@
 			on:'document.body',
 			twinkle: 0.2,
 			minPixel: 1,
-			maxPixel: 2,
-			color: '#fff'
+			maxPixel: 5,
+			color: '6600FF'
 	};
 	$.firefly = function(settings) {
 
